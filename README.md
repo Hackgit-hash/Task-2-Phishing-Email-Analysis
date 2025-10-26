@@ -8,13 +8,12 @@ Steps I followed
 5.	Tools used
 6.	•	MxToolbox – checked email server, DNS, and blacklist.
 7.	•	VirusTotal – scanned links and attachments.
-8.	•	WHOIS/ DNS Lookup – verified IP address registration and domain details. 
-
-What I found
+8.	•	WHOIS/ DNS Lookup – verified IP address registration and domain details.
+9.	What I found
 •	Sender address looks generic and the email came at an unusual time.
 •	No attachments. •	Email content is professional, no obvious spelling/grammar mistakes. 
 •	MxToolbox shows blacklist detected and minor configuration warnings (DNS SOA serial format, reverse DNS mismatch).
-•	Links should be verified before clicking.  
+•	Links should be verified before clicking.
 Summary
 •	This is a phishing email. It impersonates Adobe, uses deceptive URL tricks and social engineering pressure to coerce the recipient into revealing sensitive information.
 Multiple technical and behavioral indicators confirm high confidence malicious intent.  
