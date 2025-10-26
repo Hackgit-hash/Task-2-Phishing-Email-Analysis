@@ -11,13 +11,16 @@ Steps I followed
 3)Took screenshots of the email for evidence.
 
 4)Checked the sender domain and IP against blacklist and reputation databases.
+
    
 Tools used
+
 •	MxToolbox – checked email server, DNS, and blacklist.
    
 •	VirusTotal – scanned links and attachments.
     
 •	WHOIS/ DNS Lookup – verified IP address registration and domain details.
+
 
 What I found
 
@@ -28,6 +31,7 @@ What I found
 •	MxToolbox shows blacklist detected and minor configuration warnings (DNS SOA serial format, reverse DNS mismatch).
 
 •	Links should be verified before clicking.
+
 
 Summary
 
