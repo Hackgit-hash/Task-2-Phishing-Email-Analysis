@@ -4,13 +4,13 @@ Adobe for Photographers <mail@mail.adobe.com> (10 Oct 2025)
 
 Steps I followed 
 
-Checked the email header and sender details. 
+1)Checked the email header and sender details. 
 
-Verified attachments (none) and looked for suspicious links.
+2)Verified attachments (none) and looked for suspicious links.
 
-Took screenshots of the email for evidence.
+3)Took screenshots of the email for evidence.
 
-Checked the sender domain and IP against blacklist and reputation databases.
+4)Checked the sender domain and IP against blacklist and reputation databases.
    
 Tools used
 •	MxToolbox – checked email server, DNS, and blacklist.
@@ -31,7 +31,7 @@ What I found
 
 Summary
 
-##3This is a phishing email. 
+##This is a phishing email. 
 
 ##It impersonates Adobe, uses deceptive URL tricks and social engineering pressure to coerce the recipient into revealing sensitive information.
 
