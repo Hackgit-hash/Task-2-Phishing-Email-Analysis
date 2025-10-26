@@ -15,6 +15,7 @@ Tools used
 •	WHOIS/ DNS Lookup – verified IP address registration and domain details.
 
 What I found
+
 •	Sender address looks generic and the email came at an unusual time.
 
 •	No attachments. •	Email content is professional, no obvious spelling/grammar mistakes. 
