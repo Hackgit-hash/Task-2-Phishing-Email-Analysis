@@ -1,4 +1,5 @@
 Task 2: Phishing Email Analysis Email analyzed: 
+
 Adobe for Photographers <mail@mail.adobe.com> (10 Oct 2025) 
 
 Steps I followed 
