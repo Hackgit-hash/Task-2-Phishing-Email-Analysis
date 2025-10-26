@@ -9,6 +9,7 @@ Steps I followed
 6.	•	MxToolbox – checked email server, DNS, and blacklist.
 7.	•	VirusTotal – scanned links and attachments.
 8.	•	WHOIS/ DNS Lookup – verified IP address registration and domain details. 
+
 What I found
 •	Sender address looks generic and the email came at an unusual time.
 •	No attachments. •	Email content is professional, no obvious spelling/grammar mistakes. 
