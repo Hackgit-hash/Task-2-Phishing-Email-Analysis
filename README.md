@@ -2,9 +2,13 @@ Task 2: Phishing Email Analysis Email analyzed:
 Adobe for Photographers <mail@mail.adobe.com> (10 Oct 2025) 
 
 Steps I followed 
+
 Checked the email header and sender details. 
+
 Verified attachments (none) and looked for suspicious links.
-Took screenshots of the email for evidence. 
+
+Took screenshots of the email for evidence.
+
 Checked the sender domain and IP against blacklist and reputation databases.
    
 Tools used
@@ -25,21 +29,25 @@ What I found
 •	Links should be verified before clicking.
 
 Summary
-•	This is a phishing email. 
-It impersonates Adobe, uses deceptive URL tricks and social engineering pressure to coerce the recipient into revealing sensitive information.
 
-Multiple technical and behavioral indicators confirm high confidence malicious intent.  
+##3This is a phishing email. 
 
-It tries to look like a legitimate site (Adobe), but the actual URL is different.
+##It impersonates Adobe, uses deceptive URL tricks and social engineering pressure to coerce the recipient into revealing sensitive information.
 
-The mail@mail.adobe.com format is a common trick anything before @ is treated as a username, not part of the real domain.  
+##Multiple technical and behavioral indicators confirm high confidence malicious intent.  
 
-Phishing sites usually ask you to enter passwords, credit card info, or personal details. 
+##It tries to look like a legitimate site (Adobe), but the actual URL is different.
 
-Legitimate companies don’t ask this through strange URLs.
+##The mail@mail.adobe.com format is a common trick anything before @ is treated as a username, not part of the real domain.  
 
-The use of http:// instead of https:// is another red flag real login pages always use secure connections.  
+##Phishing sites usually ask you to enter passwords, credit card info, or personal details. 
 
-Phishing emails often push you to act fast (“Your account will be locked!”), trying to make you ignore the warning signs. 
+##Legitimate companies don’t ask this through strange URLs.
 
-In short: it’s phishing because it pretends to be legitimate, tries to steal sensitive info, and uses URL tricks to fool you.
+##The use of http:// instead of https:// is another red flag real login pages always use secure connections.  
+
+##Phishing emails often push you to act fast (“Your account will be locked!”), trying to make you ignore the warning signs. 
+
+##In short: 
+
+it’s phishing because it pretends to be legitimate, tries to steal sensitive info, and uses URL tricks to fool you.
